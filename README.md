@@ -1,4 +1,8 @@
-# preact-demo
+# Forecast weather using
+- Preact
+- Mobx
+- Tailwind CSS
+- ...
 
 ## CLI Commands
 
